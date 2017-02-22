@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/info498e-w17/lab06-sockets#readme",
   "dependencies": {
-    "ip": "^1.1.4",
     "net": "^1.0.2",
+    "ip": "^1.1.4",
     "process": "^0.11.9"
   },
   "devDependencies": {
